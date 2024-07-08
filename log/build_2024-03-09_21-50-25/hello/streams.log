@@ -1,0 +1,17 @@
+[0.588s] Invoking command in '/home/praveen/ros2_ws/build/hello': PYTHONPATH=/home/praveen/ros2_ws/build/hello/prefix_override:/home/praveen/ros2_ws/install/hello/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/praveen/ros2_ws/build/hello/build --no-deps install_data
+[0.797s] running develop
+[0.923s] running egg_info
+[0.923s] writing hello.egg-info/PKG-INFO
+[0.923s] writing dependency_links to hello.egg-info/dependency_links.txt
+[0.923s] writing entry points to hello.egg-info/entry_points.txt
+[0.923s] writing requirements to hello.egg-info/requires.txt
+[0.923s] writing top-level names to hello.egg-info/top_level.txt
+[0.925s] reading manifest file 'hello.egg-info/SOURCES.txt'
+[0.925s] writing manifest file 'hello.egg-info/SOURCES.txt'
+[0.926s] running build_ext
+[0.926s] Creating /home/praveen/ros2_ws/install/hello/lib/python3.10/site-packages/hello.egg-link (link to .)
+[0.927s] Installing hello_node script to /home/praveen/ros2_ws/install/hello/lib/hello
+[0.927s] 
+[0.927s] Installed /home/praveen/ros2_ws/build/hello
+[0.927s] running install_data
+[0.955s] Invoked command in '/home/praveen/ros2_ws/build/hello' returned '0': PYTHONPATH=/home/praveen/ros2_ws/build/hello/prefix_override:/home/praveen/ros2_ws/install/hello/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/praveen/ros2_ws/build/hello/build --no-deps install_data

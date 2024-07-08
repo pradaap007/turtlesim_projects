@@ -1,0 +1,33 @@
+[0.588s] Invoking command in '/home/praveen/ros2_ws/src/hello': PYTHONPATH=/home/praveen/ros2_ws/src/build/hello/prefix_override:/home/praveen/ros2_ws/src/install/hello/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/hello build --build-base /home/praveen/ros2_ws/src/build/hello/build install --record /home/praveen/ros2_ws/src/build/hello/install.log --single-version-externally-managed
+[0.767s] running egg_info
+[0.767s] creating ../build/hello/hello.egg-info
+[0.767s] writing ../build/hello/hello.egg-info/PKG-INFO
+[0.767s] writing dependency_links to ../build/hello/hello.egg-info/dependency_links.txt
+[0.767s] writing entry points to ../build/hello/hello.egg-info/entry_points.txt
+[0.768s] writing requirements to ../build/hello/hello.egg-info/requires.txt
+[0.768s] writing top-level names to ../build/hello/hello.egg-info/top_level.txt
+[0.768s] writing manifest file '../build/hello/hello.egg-info/SOURCES.txt'
+[0.769s] reading manifest file '../build/hello/hello.egg-info/SOURCES.txt'
+[0.769s] writing manifest file '../build/hello/hello.egg-info/SOURCES.txt'
+[0.769s] running build
+[0.770s] running build_py
+[0.770s] creating /home/praveen/ros2_ws/src/build/hello/build
+[0.770s] creating /home/praveen/ros2_ws/src/build/hello/build/lib
+[0.770s] creating /home/praveen/ros2_ws/src/build/hello/build/lib/hello
+[0.770s] copying hello/__init__.py -> /home/praveen/ros2_ws/src/build/hello/build/lib/hello
+[0.770s] running install
+[0.770s] running install_lib
+[0.770s] creating /home/praveen/ros2_ws/src/install/hello/lib/python3.10/site-packages/hello
+[0.771s] copying /home/praveen/ros2_ws/src/build/hello/build/lib/hello/__init__.py -> /home/praveen/ros2_ws/src/install/hello/lib/python3.10/site-packages/hello
+[0.771s] byte-compiling /home/praveen/ros2_ws/src/install/hello/lib/python3.10/site-packages/hello/__init__.py to __init__.cpython-310.pyc
+[0.771s] running install_data
+[0.772s] creating /home/praveen/ros2_ws/src/install/hello/share/ament_index
+[0.772s] creating /home/praveen/ros2_ws/src/install/hello/share/ament_index/resource_index
+[0.772s] creating /home/praveen/ros2_ws/src/install/hello/share/ament_index/resource_index/packages
+[0.772s] copying resource/hello -> /home/praveen/ros2_ws/src/install/hello/share/ament_index/resource_index/packages
+[0.772s] copying package.xml -> /home/praveen/ros2_ws/src/install/hello/share/hello
+[0.772s] running install_egg_info
+[0.773s] Copying ../build/hello/hello.egg-info to /home/praveen/ros2_ws/src/install/hello/lib/python3.10/site-packages/hello-0.0.0-py3.10.egg-info
+[0.774s] running install_scripts
+[0.788s] writing list of installed files to '/home/praveen/ros2_ws/src/build/hello/install.log'
+[0.811s] Invoked command in '/home/praveen/ros2_ws/src/hello' returned '0': PYTHONPATH=/home/praveen/ros2_ws/src/build/hello/prefix_override:/home/praveen/ros2_ws/src/install/hello/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/hello build --build-base /home/praveen/ros2_ws/src/build/hello/build install --record /home/praveen/ros2_ws/src/build/hello/install.log --single-version-externally-managed

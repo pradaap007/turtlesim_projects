@@ -1,0 +1,9 @@
+[console_scripts]
+box_turtle = hello.border:main
+go_to_goal = hello.gotogoal:main
+hello_node = hello.hello_world:main
+make_circle = hello.turtle_circle:main
+pen = hello.pentouch:main
+rec_turtle = hello.rectangle:main
+singel_sub = hello.subonly:main
+
